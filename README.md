@@ -1,4 +1,3 @@
-# python-starter
 # Python数据科学学习笔记
 
 ## 常见数学函数
